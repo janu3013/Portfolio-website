@@ -8,6 +8,8 @@ It is an personal blog which contains different sections called home, about, ski
 ## About
 
 ## skills
+![Screenshot (29)](https://user-images.githubusercontent.com/114508249/206490253-d78590fb-e30d-4550-9508-5035d99dabd1.png)
+
 ## contact
 ## logout
 
