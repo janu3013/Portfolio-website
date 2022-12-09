@@ -14,8 +14,7 @@ It is an personal blog which contains different sections called home, about, ski
 ![Screenshot (29)](https://user-images.githubusercontent.com/114508249/206490253-d78590fb-e30d-4550-9508-5035d99dabd1.png)
 
 ## contact
-![Screenshot (30)](https://user-images.githubusercontent.com/114508249/206492703-c84f583c-b138-47c7-889d-d8cd863e7948.png)
-
+![Screenshot (721)](https://user-images.githubusercontent.com/114508249/206671902-27fc7586-713e-40ec-acc3-ec3cdd8adb79.jpeg)
 ## logout
 signup.html
 ![Screenshot (31)](https://user-images.githubusercontent.com/114508249/206491664-55c5a656-bf57-44ed-a09d-2ca5d6079d13.png)
